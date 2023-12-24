@@ -28,7 +28,6 @@ section {
 .info:hover {
     background-color: cadetblue;
     opacity: 0.7;
-    padding: 15px;
 }
 .info:active {
     opacity: 1;
